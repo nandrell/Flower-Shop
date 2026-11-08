@@ -1,4 +1,4 @@
-# Flower-Shop
+# Online Floral Shop System
 Online Floral Shop System is a full-featured e-commerce application designed to browse, customize, and order fresh floral arrangements. Features product catalog management, itemized cart processing, order tracking, and checkout flow for a seamless shopping experience.
 
 ## Screenshots
